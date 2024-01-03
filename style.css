@@ -97,11 +97,11 @@ html {
   background-size:cover;
 }
 body {
-  max-width:800px;
+  max-width:1000px;
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(255,0,0,.2); 
+  background: rgba(0,0,255,.3); 
   padding:25px;
   color:#FFFFFF; 
 }
