@@ -11,7 +11,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: blue;
+  color: #FFFFFF;
 }
 /*change clor: from #FFFFFF to blue*/
 /**
@@ -101,9 +101,9 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(255,0,0,.2); 
+  background: rgba(255,0,0,.8); 
   padding:25px;
-  color:blue; 
+  color:#FFFFFF; 
 }
 /*change clor: from #FFFFFF to blue, and rgba from rgba(0,0,0,.8) to rgba(255,0,0,.2)*/
 /* Menu Links */
@@ -122,11 +122,11 @@ ul.main-menu li a {
   color:#cfd2da;
 }
 ul.main-menu li a:hover {
-  color:blue;
+  color:#FFFFFF;
 }
 /*change clor: from #FFFFFF to blue*/
 ul.main-menu li a.active {
-  color:blue;
+  color:#FFFFFF;
   border-bottom-color:#EF6D3D;
 }
 /*change clor: from #FFFFFF to blue*/
