@@ -101,11 +101,11 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(255,0,0,.8); 
+  background: hsla(0, 100%, 30%, 0.3); 
   padding:25px;
   color:#FFFFFF; 
 }
-/*change clor: from #FFFFFF to blue, and rgba from rgba(0,0,0,.8) to rgba(255,0,0,.2)*/
+/*change clor: from #FFFFFF to blue, and rgba from rgba(0,0,0,.8) to hsla(0, 100%, 30%, 0.3)*/
 /* Menu Links */
 ul.main-menu {
   margin: 0;
