@@ -122,13 +122,14 @@ ul.main-menu li a {
   color:#cfd2da;
 }
 ul.main-menu li a:hover {
-  color:#FFFFFF;
+  color:blue;
 }
+/*change clor: from #FFFFFF to blue*/
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:blue;
   border-bottom-color:#EF6D3D;
 }
-
+/*change clor: from #FFFFFF to blue*/
 /* Utility classes */
 .hide {
   display:none;
